@@ -1,6 +1,7 @@
 # Fashion Lookbook Store
 
-<img width="1920" height="6067" alt="image" src="https://github.com/user-attachments/assets/202d8cf4-7a76-4262-afcb-267661bfc7f3" />
+<img width="1920" height="6503" alt="image" src="https://github.com/user-attachments/assets/dc1ab43c-7fc6-4b63-95a3-6c8631ec2266" />
+
 
 
 ## Overview
